@@ -1,0 +1,4 @@
+../Core/Src/uart_data_converter.c:40:6:asciiToDec	2
+../Core/Src/uart_data_converter.c:47:5:asciiMap	12
+../Core/Src/uart_data_converter.c:92:5:convToRGBB	4
+../Core/Src/uart_data_converter.c:113:6:byteToRGB	1

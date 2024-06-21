@@ -1,0 +1,16 @@
+../Core/Src/main.c:93:6:HAL_TIM_PWM_PulseFinishedCallback	16	static
+../Core/Src/main.c:98:6:Set_LED	24	static
+../Core/Src/main.c:107:6:Set_Brightness	40	static
+../Core/Src/main.c:124:6:Set_Brightness2	40	static
+../Core/Src/main.c:147:6:send	32	static
+../Core/Src/main.c:161:6:WS2812B_Send	32	static
+../Core/Src/main.c:190:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/main.c:195:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:215:5:main	16	static
+../Core/Src/main.c:355:6:SystemClock_Config	88	static
+../Core/Src/main.c:402:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:440:13:MX_TIM3_Init	48	static
+../Core/Src/main.c:489:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:520:13:MX_DMA_Init	16	static
+../Core/Src/main.c:538:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:560:6:Error_Handler	4	static,ignoring_inline_asm
